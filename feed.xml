@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abed's YouTube Podcast</title>
-    <link>https://yourdomain.com</link>
-    <description>A curated feed of my favourite YouTube videos</description>
+    <title>Abed’s Audiobook Podcast</title>
+    <link>https://raw.githubusercontent.com/Abdkf/abdkf.podcast.audiobooks/main/feed.xml</link>
+    <description>Curated YouTube audiobooks delivered as a podcast feed.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 13 Aug 2025 16:00:00 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/Abdkf/abdkf.podcast.audiobooks/main/feed.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>Why Privacy Matters</title>
-      <link>https://www.youtube.com/watch?v=abc123</link>
-      <guid>abc123</guid>
-      <description>A deep dive into digital privacy</description>
-      <pubDate>Wed, 13 Aug 2025 16:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Docker Secrets</title>
-      <link>https://www.youtube.com/watch?v=def456</link>
-      <guid>def456</guid>
-      <description>Tips for secure container setups</description>
-      <pubDate>Thu, 14 Aug 2025 10:00:00 GMT</pubDate>
+      <title>Episode 1: The Book of Ecclesiastes</title>
+      <description>A reading of Ecclesiastes from the KJV, sourced from YouTube.</description>
+      <link>https://www.youtube.com/watch?v=dQw4w9WgXcQ</link>
+      <guid isPermaLink="false">ecclesiastes-kjv-001</guid>
+      <pubDate>Wed, 13 Aug 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://example.com/audio/ecclesiastes.mp3" length="12345678" type="audio/mpeg" />
     </item>
 
   </channel>
