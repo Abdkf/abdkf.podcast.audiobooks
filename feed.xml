@@ -8,12 +8,11 @@
     <atom:link href="https://raw.githubusercontent.com/Abdkf/abdkf.podcast.audiobooks/main/feed.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>Episode 1: The Book of Ecclesiastes</title>
-      <description>A reading of Ecclesiastes from the KJV, sourced from YouTube.</description>
-      <link>https://www.youtube.com/watch?v=dQw4w9WgXcQ</link>
-      <guid isPermaLink="false">ecclesiastes-kjv-001</guid>
+      <title>Sidney Sheldon's Windmills of the Gods</title>
+      <description>Sidney Sheldon's Windmills of the Gods</description>
+      <link>https://youtu.be/NLFz1Wr1sGo</link>
+      <guid isPermaLink="false">1001</guid>
       <pubDate>Wed, 13 Aug 2025 10:00:00 GMT</pubDate>
-      <enclosure url="https://example.com/audio/ecclesiastes.mp3" length="12345678" type="audio/mpeg" />
     </item>
 
   </channel>
