@@ -8,24 +8,24 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>YouTube Podcast Generator</itunes:author>
         <link>https://youtube.com</link>
-        <pubDate>Tue, 23 Aug 2025 22:05:09 GMT</pubDate>
-        <lastBuildDate>Tue, 26 Aug 2025 22:05:09 GMT</lastBuildDate>
+        <pubDate>Tue, 25 Aug 2025 22:44:08 GMT</pubDate>
+        <lastBuildDate>Tue, 26 Aug 2025 22:44:08 GMT</lastBuildDate>
 
         <item>
             <title>YouTube Video iddgymeoefk</title>
-            <description>YouTube video: https://youtu.be/iddgymeoefk?si=HSLAavdYnMWoi9Z2</description>
-            <link>https://youtu.be/iddgymeoefk?si=HSLAavdYnMWoi9Z2</link>
+            <description>YouTube video: https://youtu.be/iddgymeoefk?si=gfDfLMxsL0LjQqjv</description>
+            <link>https://youtu.be/iddgymeoefk?si=gfDfLMxsL0LjQqjv</link>
             <guid>iddgymeoefk</guid>
-            <pubDate>Tue, 21 Aug 2025 22:05:09 GMT</pubDate>
-            <enclosure url="https://www.youtube.com/watch?v=iddgymeoefk" length="0" type="audio/mpeg"/>
+            <pubDate>Mon, 20 Aug 2025 22:44:08 GMT</pubDate>
+            <enclosure url="https://yt-dlp-api.herokuapp.com/api/v1/extract?url=https://www.youtube.com/watch?v=iddgymeoefk&format=audio" length="0" type="audio/mpeg"/>
         </item>
         <item>
-            <title>YouTube Video gBjJ66dhWTU</title>
-            <description>YouTube video: https://youtu.be/gBjJ66dhWTU?si=fCc7Vs22Rya9hIGW</description>
-            <link>https://youtu.be/gBjJ66dhWTU?si=fCc7Vs22Rya9hIGW</link>
-            <guid>gBjJ66dhWTU</guid>
-            <pubDate>Mon, 22 Aug 2025 22:05:09 GMT</pubDate>
-            <enclosure url="https://www.youtube.com/watch?v=gBjJ66dhWTU" length="0" type="audio/mpeg"/>
+            <title>YouTube Video iQApfmsVN7s</title>
+            <description>YouTube video: https://youtu.be/iQApfmsVN7s?si=5uGxyoSaCFoFQ7nS</description>
+            <link>https://youtu.be/iQApfmsVN7s?si=5uGxyoSaCFoFQ7nS</link>
+            <guid>iQApfmsVN7s</guid>
+            <pubDate>Sun, 21 Aug 2025 22:44:08 GMT</pubDate>
+            <enclosure url="https://yt-dlp-api.herokuapp.com/api/v1/extract?url=https://www.youtube.com/watch?v=iQApfmsVN7s&format=audio" length="0" type="audio/mpeg"/>
         </item>
     </channel>
 </rss>
