@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Abed’s Audiobook Podcast</title>
-    <link>https://raw.githubusercontent.com/Abdkf/abdkf.podcast.audiobooks/main/feed.xml</link>
-    <description>Curated YouTube audiobooks delivered as a podcast feed.</description>
-    <language>en-gb</language>
-    <atom:link href="https://raw.githubusercontent.com/Abdkf/abdkf.podcast.audiobooks/main/feed.xml" rel="self" type="application/rss+xml" />
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Sidney Sheldon Audiobooks</title>
+        <description>Sidney Sheldon Audiobooks</description>
+        <language>en-us</language>
+        <itunes:category text="Technology"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:author>YouTube Podcast Generator</itunes:author>
+        <link>https://youtube.com</link>
+        <pubDate>Tue, 26 Aug 2025 22:05:09 GMT</pubDate>
+        <lastBuildDate>Tue, 26 Aug 2025 22:05:09 GMT</lastBuildDate>
 
-    <item>
-      <title>Sidney Sheldon's Windmills of the Gods</title>
-      <description>Sidney Sheldon's Windmills of the Gods</description>
-      <link>https://youtu.be/NLFz1Wr1sGo</link>
-      <guid isPermaLink="false">1001</guid>
-      <pubDate>Wed, 13 Aug 2025 10:00:00 GMT</pubDate>
-    </item>
-
-  </channel>
+        <item>
+            <title>YouTube Video iddgymeoefk</title>
+            <description>YouTube video: https://youtu.be/iddgymeoefk?si=HSLAavdYnMWoi9Z2</description>
+            <link>https://youtu.be/iddgymeoefk?si=HSLAavdYnMWoi9Z2</link>
+            <guid>iddgymeoefk</guid>
+            <pubDate>Tue, 26 Aug 2025 22:05:09 GMT</pubDate>
+            <enclosure url="https://www.youtube.com/watch?v=iddgymeoefk" length="0" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title>YouTube Video gBjJ66dhWTU</title>
+            <description>YouTube video: https://youtu.be/gBjJ66dhWTU?si=fCc7Vs22Rya9hIGW</description>
+            <link>https://youtu.be/gBjJ66dhWTU?si=fCc7Vs22Rya9hIGW</link>
+            <guid>gBjJ66dhWTU</guid>
+            <pubDate>Mon, 25 Aug 2025 22:05:09 GMT</pubDate>
+            <enclosure url="https://www.youtube.com/watch?v=gBjJ66dhWTU" length="0" type="audio/mpeg"/>
+        </item>
+    </channel>
 </rss>
