@@ -8,7 +8,7 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:author>YouTube Podcast Generator</itunes:author>
         <link>https://youtube.com</link>
-        <pubDate>Tue, 26 Aug 2025 22:05:09 GMT</pubDate>
+        <pubDate>Tue, 20 Aug 2025 22:05:09 GMT</pubDate>
         <lastBuildDate>Tue, 26 Aug 2025 22:05:09 GMT</lastBuildDate>
 
         <item>
@@ -16,7 +16,7 @@
             <description>YouTube video: https://youtu.be/iddgymeoefk?si=HSLAavdYnMWoi9Z2</description>
             <link>https://youtu.be/iddgymeoefk?si=HSLAavdYnMWoi9Z2</link>
             <guid>iddgymeoefk</guid>
-            <pubDate>Tue, 26 Aug 2025 22:05:09 GMT</pubDate>
+            <pubDate>Tue, 21 Aug 2025 22:05:09 GMT</pubDate>
             <enclosure url="https://www.youtube.com/watch?v=iddgymeoefk" length="0" type="audio/mpeg"/>
         </item>
         <item>
@@ -24,7 +24,7 @@
             <description>YouTube video: https://youtu.be/gBjJ66dhWTU?si=fCc7Vs22Rya9hIGW</description>
             <link>https://youtu.be/gBjJ66dhWTU?si=fCc7Vs22Rya9hIGW</link>
             <guid>gBjJ66dhWTU</guid>
-            <pubDate>Mon, 25 Aug 2025 22:05:09 GMT</pubDate>
+            <pubDate>Mon, 22 Aug 2025 22:05:09 GMT</pubDate>
             <enclosure url="https://www.youtube.com/watch?v=gBjJ66dhWTU" length="0" type="audio/mpeg"/>
         </item>
     </channel>
